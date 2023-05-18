@@ -111,3 +111,90 @@ export const userData = [
         transaction: '$120.69'
     }
 ];
+
+
+
+
+
+export const productRows = [
+  { 
+      id: 1, 
+      name: 'Apple Airpods',
+      img: 'https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg',
+      stock: '145',
+      status: 'available',
+      price: '$220.69'
+  },
+  { 
+      id: 2, 
+      name: 'Apple Airpods',
+      img: 'https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg',
+      stock: '145',
+      status: 'available',
+      price: '$220.69'
+  },
+  { 
+      id: 3, 
+      name: 'Apple Airpods',
+      img: 'https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg',
+      stock: '0',
+      status: 'unavailable',
+      price: '$220.69'
+  },
+  { 
+      id: 4, 
+      name: 'Apple Airpods',
+      img: 'https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg',
+      stock: '145',
+      status: 'available',
+      price: '$220.69'
+  },
+  { 
+      id: 5, 
+      name: 'Apple Airpods',
+      img: 'https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg',
+      stock: '145',
+      status: 'available',
+      price: '$220.69'
+  },
+  { 
+      id: 6, 
+      name: 'Apple Airpods',
+      img: 'https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg',
+      stock: '0',
+      status: 'unavailable',
+      price: '$220.69'
+  },
+  { 
+      id: 7, 
+      name: 'Apple Airpods',
+      img: 'https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg',
+      stock: '145',
+      status: 'available',
+      price: '$220.69'
+  },
+  { 
+      id: 8, 
+      name: 'Apple Airpods',
+      img: 'https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg',
+      stock: '0',
+      status: 'unavailable',
+      price: '$220.69'
+  },
+  { 
+      id: 9, 
+      name: 'Apple Airpods',
+      img: 'https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg',
+      stock: '145',
+      status: 'available',
+      price: '$220.69'
+  },
+  { 
+      id: 10, 
+      name: 'Apple Airpods',
+      img: 'https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg',
+      stock: '145',
+      status: 'available',
+      price: '$220.69'
+  }
+];

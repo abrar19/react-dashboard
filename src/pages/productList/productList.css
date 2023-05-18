@@ -1,0 +1,53 @@
+.productList{
+    flex: 4;
+    width: 100%;
+}
+
+.productListStatusGreenDot{
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: green;
+    margin-left: 10px;
+}
+
+.productListStatusRedDot{
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: red;
+    margin-left: 10px;
+}
+
+.productListUser{
+    display: flex;
+    align-items: center;
+}
+
+.productListImg{
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+.productListButton{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.productListEdit{
+    border: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+    background-color: #3bb077;
+    color: white;
+    cursor: pointer;
+}
+
+.productListDelete{
+    color: red;
+    cursor: pointer;
+}
